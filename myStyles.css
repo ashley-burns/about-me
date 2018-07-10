@@ -1,0 +1,18 @@
+body {
+    font-family: Didot, sans-serif ;
+    background-image: url("background2.jpg");
+    background-size: cover;
+}
+
+.title{
+    color: white;
+}
+
+.text-blocks {
+    color: white;
+    margin: 5;
+}
+
+.container{
+    margin: 0px 15px;
+}
