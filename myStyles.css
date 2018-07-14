@@ -1,15 +1,15 @@
 body {
     font-family: Didot, sans-serif ;
-    background-image: url("background2.jpg");
+    background-color: lightblue;
     background-size: cover;
 }
 
 .title{
-    color: white;
+    color: black;
 }
 
 .text-blocks {
-    color: white;
+    color: black;
     margin: 5;
 }
 
